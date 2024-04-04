@@ -59,3 +59,26 @@
    - Aniketh is responsible for implementing the database for the Android chatting application. He starts by creating a database schema that defines the structure of user login credentials. Aniketh uses Firebase Realtime Database for this purpose, leveraging its capabilities for real-time data synchronization and offline support. He then writes code to connect to the database and implement features such as user authentication through Gmail login without requiring a password. Aniketh's role is crucial for ensuring secure and efficient data management within the app, enabling seamless communication and interaction among users.
 
 Overall, each team member plays a unique role in the preparation of the Android chatting application, contributing their skills, expertise, and dedication to achieve the project's goals and deliver a high-quality product as Collaboration, communication, and teamwork are essential for the successful completion of the project.
+
+## Project page:-
+
+![WhatsApp Image 2024-02-18 at 19 39 06_3c761224](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/c3a72aaa-b996-48d0-b528-621959d4613f)
+![WhatsApp Image 2024-02-18 at 19 39 07_dc1646f9](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/eafea9b0-8b5f-42c4-928c-1c7a39301b5d)
+![WhatsApp Image 2024-02-18 at 19 39 07_0e2912a1](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/dd1b72ee-33be-483c-8900-35f91945f50d)
+![WhatsApp Image 2024-02-18 at 19 39 07_065c453b](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/adf6526c-f7b8-4262-b84b-6ef2435a2f51)
+![WhatsApp Image 2024-02-18 at 19 39 08_06da3784](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/e9a06046-9c3b-42c4-b11b-4c87d370dd48)
+![WhatsApp Image 2024-02-18 at 19 39 08_bb2085be](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/fe6c95ac-f6dc-4bca-9e7e-d79737bcba81)
+![WhatsApp Image 2024-02-18 at 19 39 09_32713cdd](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/25cd3cb8-1d10-46bb-946c-00fe7f008eb7)
+![WhatsApp Image 2024-02-18 at 19 12 00_76ab9bc8](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/345f017a-94f2-4623-b043-2f9dc2959747)
+![WhatsApp Image 2024-03-26 at 11 08 39_ce6e2776](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/9bfefcb6-1820-43c5-aad2-9dffb2c78763)
+![WhatsApp Image 2024-02-18 at 19 12 29_06c11587](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/f1a4b3d8-3509-4305-b8a3-0d942596923c)
+
+## Update something this porject.
+![Screenshot (501)](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/329c8e7e-9ca2-4e52-8024-a50399264673)
+![Screenshot (502)](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/d6703b6f-85c6-47fc-8a00-454c9c73ad15)
+![Screenshot (504)](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/b3cb1f53-b2f2-440c-bfa5-bd98a175d8ab)
+![Screenshot (505)](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/cfd92647-fb03-4b2d-8e3e-73936e7883c4)
+![Screenshot (506)](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/4d5aa09f-3b4a-493f-9876-4d6d8af91362)
+![Screenshot (507)](https://github.com/20BCE11035/ChatsApp-master/assets/153983455/4b114fc9-3a1a-4aec-becf-0e391eb6e899)
+
+## This is my capston porject - all team member work this project.
